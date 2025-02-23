@@ -1,10 +1,1 @@
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10000
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10001
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10002
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10003
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10004
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10005
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10006
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10007
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10008
-fca69668845400f4df32:327ffcf67d3e0702@gw.dataimpulse.com:10009
+gw.dataimpulse.com:824:fca69668845400f4df32__cr.us:327ffcf67d3e0702
